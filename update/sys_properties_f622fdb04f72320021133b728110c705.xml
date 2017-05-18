@@ -11,7 +11,7 @@
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>will</sys_created_by>
         <sys_created_on>2017-05-15 15:10:56</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f622fdb04f72320021133b728110c705</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>x_58872_needit.autoCloseOverdue</sys_name>

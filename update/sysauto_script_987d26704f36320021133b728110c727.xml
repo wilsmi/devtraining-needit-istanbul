@@ -38,7 +38,7 @@ while(overdueNITasks.next()){
         <sys_class_name>sysauto_script</sys_class_name>
         <sys_created_by>will</sys_created_by>
         <sys_created_on>2017-05-15 19:29:27</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>987d26704f36320021133b728110c727</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Find and Close Long Overdue NeedIt Tasks</sys_name>
